@@ -1,4 +1,4 @@
-# PythonColorPicker
+# Python Color Generator
 Generate an image of color gradients for use in game design 
 
 ![color_palette.png](..%2Fcolor_palette.png)
